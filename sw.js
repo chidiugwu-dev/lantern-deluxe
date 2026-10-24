@@ -1,7 +1,7 @@
 // Lantern Deluxe offline support. The whole app is one HTML file, so caching it (plus the icons and
 // manifest) is enough to run with no connection. The cache name carries a build stamp, so a new build
 // replaces the cache. Its "deluxe-" prefix keeps it apart from Lantern's caches on the same site.
-const CACHE = "deluxe-92f149e7cbfb";
+const CACHE = "deluxe-1b0288c34775";
 const FILES = ["./", "./index.html", "./manifest.webmanifest", "./icon-180.png", "./icon-192.png", "./icon-512.png"];
 
 self.addEventListener("install", (event) => {
