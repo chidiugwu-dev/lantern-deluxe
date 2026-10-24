@@ -1,0 +1,15 @@
+{
+  "name": "Lantern Deluxe",
+  "short_name": "Lantern Deluxe",
+  "description": "Home tutoring for K–12: math, reading, language arts, science, social studies, logic, and classical studies, with Fact Sprint, prize boards, and badges.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#e2eefb",
+  "theme_color": "#0f1b2d",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
